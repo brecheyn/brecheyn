@@ -85,10 +85,9 @@ Comfortable across the stack, from embedded systems and IoT to backend architect
 </table>
 
 <h3 align="center">Stats</h3>
-
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Brecheyn&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brecheyn&layout=compact&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Brecheyn&show_icons=true&theme=dark&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brecheyn&layout=compact&theme=dark&hide_border=true" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brecheyn&hide_border=true&background=FFFFFF00&ring=B23A2E&fire=B23A2E&currStreakLabel=B23A2E" />
