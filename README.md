@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/brecheyn-banner.png" alt="brecheyn" width="480" />
+  <img src="brecheyn-banner.png" alt="brecheyn" width="480" />
 </p>
 
 <p align="center">
