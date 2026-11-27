@@ -24,9 +24,13 @@
 
 ### About
 
-I grew up in Fada N'Gourma speaking Gourmantchéma and Mooré long before French. Switching between languages taught me early how to connect worlds that don't naturally understand each other — which is exactly what I do with software today.
+Full-stack developer and IoT &amp; AI engineer. I design and deliver end-to-end systems — from embedded devices to cloud back-ends and the applications people use every day.
 
-I work across the whole chain: from microcontrollers to backends, from offline-first mobile apps to applied AI. I favour architectures that are **simple, robust and easy to maintain** — systems you can trust at 3 a.m.
+- **Software engineering** — web and mobile applications (Flutter, Angular, React, Next.js), REST APIs (Spring Boot, Laravel, Node.js, Django, FastAPI), relational data modelling (Merise, UML, PostgreSQL).
+- **Connected systems** — ESP32 and Arduino firmware with PlatformIO, sensor data pipelines, containerised deployments with Docker and CI/CD.
+- **Applied AI &amp; security** — machine-learning models for real use cases, network analysis and security assessment.
+
+I build for reliability: offline-first by design, clear architecture, tested and documented code.
 
 </td>
 </tr>
