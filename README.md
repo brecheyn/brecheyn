@@ -1,117 +1,190 @@
+<!-- ═══════════════════════════════  HEADER  ═══════════════════════════════ -->
 <p align="center">
-  <img src="brecheyn-banner.png" alt="brecheyn" width="480" />
+  <img src="brecheyn-banner.png" alt="brecheyn" width="440" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Brecheyn&style=flat-square&color=B23A2E" alt="profile views" />
-  <img src="https://img.shields.io/badge/status-open_to_work-2E4057?style=flat-square" />
-  <img src="https://img.shields.io/badge/based_in-Ouagadougou%2C_BF-C98A3C?style=flat-square" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=17&duration=4200&pause=2600&color=C98A3C&center=true&vCenter=true&width=560&height=34&lines=Full-stack+developer+%C2%B7+IoT+%26+AI+engineer;I+build+systems+that+talk+to+each+other;From+the+sensor+to+the+cloud+%E2%80%94+calmly." alt="typing" />
 </p>
 
-<!-- Faso Dan Fani stripe divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EDE0C8,20:B23A2E,40:2E4057,60:C98A3C,80:2B2B2B,100:EDE0C8&height=8&width=700" />
+  <img src="https://img.shields.io/badge/status-open_to_work-2E4057?style=flat-square&labelColor=1C1F24" />
+  <img src="https://img.shields.io/badge/based_in-Ouagadougou%2C_BF-C98A3C?style=flat-square&labelColor=1C1F24" />
+  <img src="https://img.shields.io/badge/focus-cybersecurity-B23A2E?style=flat-square&labelColor=1C1F24" />
+  <img src="https://komarev.com/ghpvc/?username=Brecheyn&style=flat-square&color=2E4057&label=profile+views" />
 </p>
 
-<h3 align="center">About</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EDE0C8,20:C98A3C,40:2E4057,60:B23A2E,80:C98A3C,100:EDE0C8&height=4&width=640" />
+</p>
 
+<br/>
+
+<!-- ═══════════════════════════════  ABOUT  ═══════════════════════════════ -->
 <table>
 <tr>
-<td width="30%" align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1500&color=B23A2E&center=true&vCenter=true&width=250&height=250&lines=PHARES+NADINGA;Full-Stack+Developer;IoT+%2F+AI+Engineer" alt="typing" />
+<td width="42%" valign="top">
+
+<pre>
+<b>name:</b>      Pharès Nadinga
+<b>role:</b>      Full-Stack Developer
+           IoT &amp; AI Engineer
+<b>based_in:</b>  Ouagadougou, Burkina Faso
+<b>roots:</b>     Fada N'Gourma
+<b>speaks:</b>    [Gourmantchéma, Mooré, French]
+<b>now:</b>       Cybersecurity &amp; network analysis
+<b>motto:</b>     "Slow is smooth, smooth is fast."
+</pre>
+
 </td>
-<td width="70%">
+<td width="58%" valign="top">
 
-Full-stack developer and IoT/AI engineer based in Ouagadougou, Burkina Faso 🇧🇫. Grew up in Fada N'Gourma speaking Gourmantchéma and Mooré before French — a background that shaped a habit of working across systems that don't naturally speak the same language.
+### About
 
-Comfortable across the stack, from embedded systems and IoT to backend architecture and applied AI, with a growing focus on cybersecurity and network analysis.
+I grew up in Fada N'Gourma speaking Gourmantchéma and Mooré long before French. Switching between languages taught me early how to connect worlds that don't naturally understand each other — which is exactly what I do with software today.
+
+I work across the whole chain: from microcontrollers to backends, from offline-first mobile apps to applied AI. I favour architectures that are **simple, robust and easy to maintain** — systems you can trust at 3 a.m.
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EDE0C8,20:B23A2E,40:2E4057,60:C98A3C,80:2B2B2B,100:EDE0C8&height=6&width=700" />
-</p>
+<br/>
 
-<h3 align="center">Compétences</h3>
+<!-- ═══════════════════════════════  PROJECTS  ═══════════════════════════════ -->
+### Selected work
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Frontend**
+#### [ROOGO](https://github.com/Brecheyn/ROOGO)
+<sub>Inventory management web application</sub>
 
-| | |
-|---|---|
-| Flutter & Dart (Expert) | ![](https://progress-bar.dev/95/?color=B23A2E&width=120) |
-| Architecture Offline-First (SyncQueue) | ![](https://progress-bar.dev/90/?color=B23A2E&width=120) |
-| Material 3 & Design System | ![](https://progress-bar.dev/90/?color=B23A2E&width=120) |
-| Angular / React / Vue.js | ![](https://progress-bar.dev/85/?color=C98A3C&width=120) |
-| TypeScript / JavaScript | ![](https://progress-bar.dev/90/?color=C98A3C&width=120) |
-| HTML5 / CSS3 (SASS/Tailwind) | ![](https://progress-bar.dev/90/?color=C98A3C&width=120) |
+Stock, movements and inventories in one place, built on a relational core.
+
+<img src="https://img.shields.io/badge/TypeScript-2E4057?style=flat-square&logo=typescript&logoColor=EDE0C8" />
+<img src="https://img.shields.io/badge/SCSS-2E4057?style=flat-square&logo=sass&logoColor=EDE0C8" />
+<img src="https://img.shields.io/badge/PL%2FpgSQL-2E4057?style=flat-square&logo=postgresql&logoColor=EDE0C8" />
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**Outils**
+#### [CL_Creator](https://github.com/Brecheyn/Cl_creator) &nbsp;<a href="https://clcreator.vercel.app"><img src="https://img.shields.io/badge/live-clcreator.vercel.app-C98A3C?style=flat-square&labelColor=1C1F24" /></a>
+<sub>AI cover-letter generator · SaaS</sub>
 
-| | |
-|---|---|
-| Git / GitHub / CI-CD | ![](https://progress-bar.dev/90/?color=2E4057&width=120) |
-| Docker & Conteneurisation | ![](https://progress-bar.dev/95/?color=2E4057&width=120) |
-| IoT (PlatformIO / ESP32 / Arduino) | ![](https://progress-bar.dev/85/?color=2E4057&width=120) |
-| Analyste Cybersécurité & Réseaux | ![](https://progress-bar.dev/88/?color=2B2B2B&width=120) |
-| Figma & Design UI/UX | ![](https://progress-bar.dev/80/?color=2B2B2B&width=120) |
-| Modélisation 3D | ![](https://progress-bar.dev/75/?color=2B2B2B&width=120) |
+Turns a real CV and a job or scholarship offer into a tailored cover letter.
+
+<img src="https://img.shields.io/badge/TypeScript-2E4057?style=flat-square&logo=typescript&logoColor=EDE0C8" />
+<img src="https://img.shields.io/badge/AI-2E4057?style=flat-square&logo=openai&logoColor=EDE0C8" />
+<img src="https://img.shields.io/badge/Vercel-2E4057?style=flat-square&logo=vercel&logoColor=EDE0C8" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [Spotify Predictors](https://github.com/Brecheyn/spotify_predictors)
+<sub>Deep learning on audio features</sub>
+
+A deep neural network that analyses the audio characteristics of tracks to predict their success.
+
+<img src="https://img.shields.io/badge/Python-2E4057?style=flat-square&logo=python&logoColor=EDE0C8" />
+<img src="https://img.shields.io/badge/Deep_Learning-2E4057?style=flat-square&logo=tensorflow&logoColor=EDE0C8" />
+
+</td>
+<td width="50%" valign="top">
+
+#### [City Plainte](https://github.com/Brecheyn/city_plainte)
+<sub>Civic complaint platform</sub>
+
+Lets citizens report local issues and follow their handling.
+
+<img src="https://img.shields.io/badge/Python-2E4057?style=flat-square&logo=python&logoColor=EDE0C8" />
+<img src="https://img.shields.io/badge/HTML-2E4057?style=flat-square&logo=html5&logoColor=EDE0C8" />
+<img src="https://img.shields.io/badge/JavaScript-2E4057?style=flat-square&logo=javascript&logoColor=EDE0C8" />
 
 </td>
 </tr>
 </table>
 
+<sub>Also on the shelf → <a href="https://github.com/Brecheyn/Eventhub"><b>EventHub</b></a> (events, registrations &amp; certificates) · <a href="https://github.com/Brecheyn/Cybersecurity-Hands-On-Lab-Module-1-Understanding-Basic-Security-Weaknesses"><b>Cybersecurity Lab</b></a> (hands-on security weaknesses) · <a href="https://github.com/Brecheyn/portfolio"><b>Portfolio</b></a></sub>
+
+<br/><br/>
+
+<!-- ═══════════════════════════════  LANGUAGES  ═══════════════════════════════ -->
+### What my repositories are made of
+
+<pre>
+SCSS          ████████████░░░░░░░░░░░░░  24.2 %
+JavaScript    ████████████░░░░░░░░░░░░░  24.2 %
+TypeScript    ███████████░░░░░░░░░░░░░░  21.9 %
+HTML          ██████████░░░░░░░░░░░░░░░  19.3 %
+Python        ██░░░░░░░░░░░░░░░░░░░░░░░   4.4 %
+CSS           ██░░░░░░░░░░░░░░░░░░░░░░░   3.2 %
+PL/pgSQL      █░░░░░░░░░░░░░░░░░░░░░░░░   2.8 %
+</pre>
+
+<br/>
+
+<!-- ═══════════════════════════════  STACK  ═══════════════════════════════ -->
+### Toolbox
+
 <table>
 <tr>
-<td width="60%">
-
-**Base de données**
-
-| | |
-|---|---|
-| SQL (PostgreSQL / SQLite / MySQL) | ![](https://progress-bar.dev/92/?color=B23A2E&width=120) |
-| Modélisation Merise / UML | ![](https://progress-bar.dev/90/?color=B23A2E&width=120) |
-| MongoDB (NoSQL) | ![](https://progress-bar.dev/80/?color=B23A2E&width=120) |
-| Modélisation de données relationnelles | ![](https://progress-bar.dev/85/?color=B23A2E&width=120) |
-
-</td>
-<td width="40%" align="center">
-
-**Aussi à l'aise avec**
-
-<img src="https://skillicons.dev/icons?i=python,laravel,fastapi,cpp,tensorflow,linux,kali&theme=dark" />
-
-</td>
+<td width="22%"><b>Mobile &amp; front-end</b><br/><sub>offline-first, design systems</sub></td>
+<td><img src="https://skillicons.dev/icons?i=flutter,dart,ts,js,react,angular,vue,html,sass,tailwind&perline=10" /></td>
+</tr>
+<tr>
+<td><b>Back-end &amp; data</b><br/><sub>APIs, relational modelling</sub></td>
+<td><img src="https://skillicons.dev/icons?i=python,fastapi,laravel,postgres,sqlite,mysql,mongodb&perline=10" /></td>
+</tr>
+<tr>
+<td><b>IoT &amp; systems</b><br/><sub>ESP32, PlatformIO, containers</sub></td>
+<td><img src="https://skillicons.dev/icons?i=arduino,cpp,docker,linux,githubactions,git&perline=10" /></td>
+</tr>
+<tr>
+<td><b>AI &amp; security</b><br/><sub>applied ML, network analysis</sub></td>
+<td><img src="https://skillicons.dev/icons?i=tensorflow,kali,figma,blender&perline=10" /></td>
 </tr>
 </table>
 
+<br/>
+
+<!-- ═══════════════════════════════  NOW  ═══════════════════════════════ -->
+### Right now
+
+- **Offline-first apps** — sync queues that survive bad connectivity, because the network is not a given.
+- **Edge intelligence** — bringing small AI models closer to the sensors.
+- **Security** — network analysis, threat basics, and building things that fail safely.
+
+<br/>
+
+<!-- ═══════════════════════════════  ACTIVITY  ═══════════════════════════════ -->
+### Activity
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EDE0C8,20:B23A2E,40:2E4057,60:C98A3C,80:2B2B2B,100:EDE0C8&height=6&width=700" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Brecheyn&show_icons=true&hide_border=true&theme=transparent&title_color=C98A3C&icon_color=2E4057&text_color=8B95A1&ring_color=C98A3C&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brecheyn&layout=compact&hide_border=true&theme=transparent&title_color=C98A3C&text_color=8B95A1&langs_count=7" />
 </p>
 
-<h3 align="center">Stats</h3>
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Brecheyn&show_icons=true&theme=dark&hide_border=true&title_color=C98A3C&icon_color=B23A2E&text_color=EDE0C8&bg_color=2B2B2B" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brecheyn&layout=compact&theme=dark&hide_border=true&title_color=C98A3C&text_color=EDE0C8&bg_color=2B2B2B" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Brecheyn&hide_border=true&background=FFFFFF00&ring=B23A2E&fire=C98A3C&currStreakLabel=EDE0C8" />
+  <img src="https://streak-stats.demolab.com?user=Brecheyn&theme=transparent&hide_border=true&ring=C98A3C&fire=B23A2E&currStreakNum=C98A3C&sideNums=8B95A1&currStreakLabel=C98A3C&sideLabels=8B95A1&dates=8B95A1&stroke=2E4057" />
 </p>
 
-<h3 align="center">Contact</h3>
-
 <p align="center">
-  <a href="https://linkedin.com/in/yienouyaba-pharès-nadinga-1062ab293"><img src="https://img.shields.io/badge/-LinkedIn-2E4057?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:yienouyaban@gmail.com"><img src="https://img.shields.io/badge/-Email-B23A2E?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://credly.com/users/nadinga-pharès"><img src="https://img.shields.io/badge/-Credly-C98A3C?style=flat-square&logo=credly&logoColor=white" /></a>
+  <img width="92%" src="https://github-readme-activity-graph.vercel.app/graph?username=Brecheyn&bg_color=00000000&color=8B95A1&line=C98A3C&point=B23A2E&area=true&area_color=2E4057&hide_border=true&title_color=C98A3C&custom_title=Contribution%20rhythm" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E4057,50:B23A2E,100:C98A3C&height=100&section=footer" width="100%"/>
+<br/>
+
+<!-- ═══════════════════════════════  CONTACT  ═══════════════════════════════ -->
+<p align="center">
+  <a href="https://linkedin.com/in/yienouyaba-pharès-nadinga-1062ab293"><img src="https://img.shields.io/badge/LinkedIn-Let's_talk-2E4057?style=for-the-badge&logo=linkedin&logoColor=EDE0C8&labelColor=1C1F24" /></a>
+  <a href="mailto:yienouyaban@gmail.com"><img src="https://img.shields.io/badge/Email-Write_to_me-C98A3C?style=for-the-badge&logo=gmail&logoColor=EDE0C8&labelColor=1C1F24" /></a>
+  <a href="https://credly.com/users/nadinga-pharès"><img src="https://img.shields.io/badge/Credly-Certifications-B23A2E?style=for-the-badge&logo=credly&logoColor=EDE0C8&labelColor=1C1F24" /></a>
+</p>
+
+<p align="center"><sub>Crafted in Ouagadougou · palette inspired by Faso Dan Fani</sub></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EDE0C8,50:C98A3C,100:2E4057&height=80&section=footer" width="100%" />
